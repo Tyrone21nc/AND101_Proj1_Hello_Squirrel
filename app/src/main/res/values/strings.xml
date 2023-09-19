@@ -1,9 +1,9 @@
 <resources>
     <string name="app_name">Hello Squirrel</string>
 
-    <string name="first_name">FIRST</string>
-    <string name="last_name">LAST</string>
-    <string name="full_name">%s %s</string>
+    <string name="first_name">Romain</string>
+    <string name="last_name">Dzeionse</string>
+    <string name="full_name">%sRomain Geofrey Donfack Dzeinse%s</string>
 
     <string name="profile_bio_text">This a short bio about myself.\nIt has multiple lines because I am\na complex being.</string>
 
